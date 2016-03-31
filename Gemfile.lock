@@ -70,8 +70,6 @@ GEM
       octokit (~> 4.2)
     jekyll-github-metadata (1.10.0)
       octokit (~> 4.0)
-    jekyll-last-modified-at (0.3.4)
-      jekyll
     jekyll-mentions (1.1.2)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
@@ -118,7 +116,6 @@ GEM
     sawyer (0.7.0)
       addressable (>= 2.3.5, < 2.5)
       faraday (~> 0.8, < 0.10)
-    stringex (2.6.0)
     terminal-table (1.5.2)
     thread_safe (0.3.5)
     typhoeus (0.8.0)
@@ -131,8 +128,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-last-modified-at
-  stringex
 
 BUNDLED WITH
    1.11.2
