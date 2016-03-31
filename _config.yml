@@ -4,7 +4,7 @@ email:       ben.whalley@plymouth.ac.uk
 author:      Ben Whalley
 description: "Systemic Autism-related Family Enabling"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://www.safefamily.org.uk"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -12,15 +12,15 @@ google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:
-google_tag_manager:
+# google_tag_manager:
 # Bing services
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -28,7 +28,7 @@ enable_anchorjs: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: SAFE
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -40,7 +40,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: safestudy
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -54,8 +54,8 @@ flattr_button:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -95,7 +95,7 @@ text:
       sent:     'Message sent!'
       error:    'Error!'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+  og_locale: 'en_GB'
 
 # Build settings
 markdown:     kramdown

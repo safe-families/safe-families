@@ -20,3 +20,13 @@ Our manual is now available for download. You can [access the latest version her
 For more information about SAFE please contact Dr Rebecca McKenzie at Plymouth University
 
 > [rebecca.mckenzie@plymouth.ac.uk](mailto:rebecca.mckenzie@plymouth.ac.uk)
+
+
+
+
+
+
+
+##### Credits
+
+Design by <a href="http://johnotander.com">John Otander</a>
