@@ -4,7 +4,7 @@ email:       ben.whalley@plymouth.ac.uk
 author:      Ben Whalley
 description: "Systemic Autism-related Family Enabling"
 baseurl:     ""
-url:         "http://www.safefamily.org.uk"
+url:         "http://safe-families.github.io/safe-families/"
 date_format: "%b %-d, %Y"
 
 # Google services
